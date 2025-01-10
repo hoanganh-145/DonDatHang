@@ -108,6 +108,7 @@
     <Content Include="images\User.gif" />
     <Content Include="images\User_Deactive.gif" />
     <Content Include="images\view.gif" />
+    <Content Include="TinhToan.aspx" />
     <Content Include="Web.config" />
     <Content Include="DonDatHang.aspx" />
   </ItemGroup>
@@ -126,6 +127,13 @@
     </Compile>
     <Compile Include="DonDatHang.aspx.designer.cs">
       <DependentUpon>DonDatHang.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TinhToan.aspx.cs">
+      <DependentUpon>TinhToan.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TinhToan.aspx.designer.cs">
+      <DependentUpon>TinhToan.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

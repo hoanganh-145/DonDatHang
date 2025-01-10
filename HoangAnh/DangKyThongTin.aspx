@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="DangKyThongTin.aspx.cs" Inherits="lab01.DangKyThongTin" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="DangKyThongTin.aspx.cs" Inherits="HoangAnh.DangKyThongTin" %>
 
 <!DOCTYPE html>
 

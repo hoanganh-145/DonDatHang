@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace lab01
+namespace HoangAnh
 {
     public partial class DonDatHang : System.Web.UI.Page
     {

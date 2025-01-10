@@ -11,7 +11,7 @@ namespace HoangAnh
 {
 
 
-    public partial class DonDatHang
+    public partial class TinhToan
     {
 
         /// <summary>
@@ -24,93 +24,66 @@ namespace HoangAnh
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// txtKH control.
+        /// txtSo1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtKH;
+        protected global::System.Web.UI.WebControls.TextBox txtSo1;
 
         /// <summary>
-        /// txtDC control.
+        /// txtSo2 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtDC;
+        protected global::System.Web.UI.WebControls.TextBox txtSo2;
 
         /// <summary>
-        /// txtThue control.
+        /// btCong control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtThue;
+        protected global::System.Web.UI.WebControls.Button btCong;
 
         /// <summary>
-        /// DDlLoaiBanh control.
+        /// btTru control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DDlLoaiBanh;
+        protected global::System.Web.UI.WebControls.Button btTru;
 
         /// <summary>
-        /// txtSoLuong control.
+        /// btNhan control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtSoLuong;
+        protected global::System.Web.UI.WebControls.Button btNhan;
 
         /// <summary>
-        /// LBBanhDat control.
+        /// btChia control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ListBox LBBanhDat;
+        protected global::System.Web.UI.WebControls.Button btChia;
 
         /// <summary>
-        /// btXoa control.
+        /// txtKQ control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ImageButton btXoa;
-
-        /// <summary>
-        /// btThemBanh control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btThemBanh;
-
-        /// <summary>
-        /// Button2 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button2;
-
-        /// <summary>
-        /// lblHoaDon control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblHoaDon;
+        protected global::System.Web.UI.WebControls.TextBox txtKQ;
     }
 }
